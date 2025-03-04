@@ -1,5 +1,8 @@
 # Advanced Programming Project – Course Topics
 
+Slides:
+- [Overview](https://client-server.my.canva.site/)
+
 ## Overview
 - Client-Server Application Structure  
 - Project Scope & Requirements  
