@@ -2,6 +2,13 @@
 
 Slides:
 - [Overview](https://client-server.my.canva.site/)
+- [Introduction to Network](https://client-server.my.canva.site/)
+- [Server Side](https://client-server.my.canva.site/)
+- [Introduction to Database](https://client-server.my.canva.site/)
+- [Build System](https://client-server.my.canva.site/)
+- [Client Side](https://client-server.my.canva.site/)
+- [Final Points](https://client-server.my.canva.site/)
+- [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
 
 ## Overview
 - Client-Server Application Structure  
