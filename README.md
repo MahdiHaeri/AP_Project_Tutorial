@@ -1,13 +1,13 @@
 # Advanced Programming Project – Course Topics
 
 Slides:
-- [Overview](https://client-server.my.canva.site/)
-- [Introduction to Network](https://client-server.my.canva.site/)
-- [Server Side](https://client-server.my.canva.site/)
-- [Introduction to Database](https://client-server.my.canva.site/)
-- [Build System](https://client-server.my.canva.site/)
-- [Client Side](https://client-server.my.canva.site/)
-- [Final Points](https://client-server.my.canva.site/)
+- [Client Server - Overview](https://www.canva.com/design/DAGglQ39nhE/7yLwLCOe9Zh5YVq6q0gmjg/view?utm_content=DAGglQ39nhE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25d991fe85)
+- [Introduction to Network](https://www.canva.com/design/DAGhIN2Rzeo/o3MbwqiBY63JskrmYS5JkA/view?utm_content=DAGhIN2Rzeo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7fc0e10cec)
+- [Server](https://www.canva.com/design/DAGhULRW-wc/Vhzw-npMjrS1nh_VnNq36A/view?utm_content=DAGhULRW-wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd6d25d600a)
+- [Introduction to Database](https://www.canva.com/design/DAGhUI6u3w4/1F3FOwFiorhTmeOQz7w17Q/view?utm_content=DAGhUI6u3w4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58450b8907)
+- [Build System](https://www.canva.com/design/DAGhUD0LMg0/68wWcc_R1STvROp2nLsdtg/view?utm_content=DAGhUD0LMg0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h16d2c8d2e3)
+- [Client](https://www.canva.com/design/DAGhUACQcx4/fHkqR_ytWukSv6oX7j28Ig/view?utm_content=DAGhUACQcx4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf967f29cbb)
+- [Final Points]()
 - [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
 
 ## Overview
