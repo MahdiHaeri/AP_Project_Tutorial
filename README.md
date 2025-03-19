@@ -28,9 +28,9 @@ Slides:
 - **Design Patterns:**  
   - MVC (Model-View-Controller)  
   - Singleton (for JDBC connection)  
-  - Factory (Optional)  
-  - Observer (Optional)  
   - DAO (Data Access Object – Optional but useful)  
+  - Factory (Optional)
+  - Observer (Optional)  
 - **Implementing an HTTP Server in Java**  
 
 ## Database
