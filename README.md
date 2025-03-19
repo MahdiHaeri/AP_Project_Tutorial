@@ -24,7 +24,10 @@ Slides:
 - **JWT (JSON Web Token) for Authentication**  
 
 ## Server
-- **Architectures:** Monolithic, Microservices (optional)  
+- **Architectures:** 
+  - Monolithic
+  - Layered(N-tier)
+  - Microservices (optional)
 - **Design Patterns:**  
   - MVC (Model-View-Controller)  
   - Singleton (for JDBC connection)  
