@@ -9,6 +9,7 @@ Slides:
 - [Client](https://www.canva.com/design/DAGhUACQcx4/fHkqR_ytWukSv6oX7j28Ig/view?utm_content=DAGhUACQcx4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf967f29cbb)
 - [Final Points]()
 - [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
+- [Docker](https://www.youtube.com/watch?v=pTFZFxd4hOI) (optional)
 
 ## Overview
 - Client-Server Application Structure  
