@@ -15,7 +15,7 @@ Slides:
 - Client-Server Application Structure  
 - Project Scope & Requirements  
 
-## Networking
+## Introduction to Network
 - **IP, Port, Socket, and Socket Programming**  
 - **HTTP Protocol & Methods** (GET, POST, etc.)  
 - **Endpoints, APIs, and RESTful API Concepts**  
@@ -36,7 +36,7 @@ Slides:
   - Observer (Optional)  
 - **Implementing an HTTP Server in Java**  
 
-## Database
+## Introduction to Database
 - **Introduction to Databases**  
 - **Types of Databases**
   -  Relational Databases (RDBMS) – Store data in tables with rows and columns (e.g., PostgreSQL, MySQL, SQLite).
