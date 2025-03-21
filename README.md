@@ -7,7 +7,7 @@ Slides:
 - [Introduction to Database](https://www.canva.com/design/DAGhUI6u3w4/1F3FOwFiorhTmeOQz7w17Q/view?utm_content=DAGhUI6u3w4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58450b8907)
 - Build System
 - Client
-- Git & Github 
+- [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
 - Docker (optional)
 
 ## Overview
