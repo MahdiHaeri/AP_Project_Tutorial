@@ -37,13 +37,13 @@ Slides:
 
 ## Introduction to Database
 - **Introduction to Databases**  
-- **Types of Databases**
-  -  Relational Databases (RDBMS) – Store data in tables with rows and columns (e.g., PostgreSQL, MySQL, SQLite).
-  -  NoSQL Databases – Designed for non-tabular data storage, useful for scalability and flexibility (e.g., MongoDB, Redis).
 - **Setting Up Databases (PostgreSQL, MySQL):**  
   - Installation on Local Machine  
-  - Installation Using Docker (Optional)  
-- **Database Visualization Tools**  
+  - Installation Using Docker (Optional) 
+- **Database Clients**
+- **Types of Databases**
+  -  Relational Databases (RDBMS) – Store data in tables with rows and columns (e.g., PostgreSQL, MySQL, SQLite).
+  -  NoSQL Databases – Designed for non-tabular data storage, useful for scalability and flexibility (e.g., MongoDB, Redis). 
 - **SQL Basics:** ER Model, Primary Keys, etc.  
 - **JDBC:** Connecting Java Applications to a Database  
 - **ORM (Object-Relational Mapping) with Hibernate (Optional)**  
