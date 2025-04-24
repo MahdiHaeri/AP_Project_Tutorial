@@ -8,7 +8,7 @@ Slides:
 - Build System
 - Client (Under construction) 🚧
 - [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
-- Docker (optional) (Under construction) 🚧
+- [Docker (optional)](https://www.canva.com/design/DAGivwtjxrU/MRO8gFERgu97NMYkMWo7iw/view?utm_content=DAGivwtjxrU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc0a9499c8) (Under construction) 🚧
 
 ## Overview
 - Client-Server Application Structure  
