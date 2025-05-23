@@ -6,7 +6,7 @@ Slides:
 - [Server](https://www.canva.com/design/DAGhhAMU8T4/k7v464nDCNvzuGGshag7SQ/view?utm_content=DAGhhAMU8T4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2742ff5b91)
 - [Introduction to Database](https://www.canva.com/design/DAGhUI6u3w4/1F3FOwFiorhTmeOQz7w17Q/view?utm_content=DAGhUI6u3w4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58450b8907)
 - Build System
-- Client (Under construction) 🚧
+- [Client - JavaFx](https://www.canva.com/design/DAGhUACQcx4/fHkqR_ytWukSv6oX7j28Ig/view?utm_content=DAGhUACQcx4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf967f29cbb) (Under construction) 🚧
 - [Git & Github](https://www.youtube.com/watch?v=4RX9c6D3exI&list=PLtsg_N7zcwLfhUtmT4EzwJUhCoMR1TeeD)
 - [Docker (optional)](https://www.canva.com/design/DAGivwtjxrU/MRO8gFERgu97NMYkMWo7iw/view?utm_content=DAGivwtjxrU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc0a9499c8) (Under construction) 🚧
 
