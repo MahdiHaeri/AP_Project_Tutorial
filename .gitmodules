@@ -1,0 +1,4 @@
+[submodule "AP-JavaFx-Tutorial"]
+	path = AP-JavaFx-Tutorial
+	url = https://github.com/MahdiHaeri/AP-JavaFx-Tutorial
+	branch = main
